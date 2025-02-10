@@ -5,7 +5,7 @@
 /**
  * 
  */
-public class HardingFirstJavaProgram {
+public class MartinezFirstJavaProgram {
 
 	/**
 	 * @param args
