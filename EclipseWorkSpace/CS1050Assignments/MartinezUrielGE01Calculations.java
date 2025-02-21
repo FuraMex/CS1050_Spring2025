@@ -37,9 +37,7 @@ public class MartinezUrielGE01Calculations
 		double quizGrade = 29;
 		double projectGrade = 59;
 		double finalExamGrade = 30;
-			
-		double breakingCode = 1 / 0;
-		
+				
 		// declaring then initializing it with the final calculated grade
 		double finalGrade = (CLASS_PARTICIPATION * classParticiGrade) + (GUIDED_EXPLORATIONS * geGrade) + (QUIZZES * quizGrade) + (PROJECT_ITERATIONS * projectGrade) + (FINAL_EXAM * finalExamGrade);
 		System.out.printf("\n%s, your final grade is %.2f", "Uriel", finalGrade);
