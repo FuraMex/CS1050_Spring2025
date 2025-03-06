@@ -1,3 +1,12 @@
+/*
+ * Uriel Martinez
+ * CS1050
+ * Section: T / R
+ * Feb 23 @ 2:32pm
+ * Assignment 2
+ * This program will take the first and last names of 2 students, print the two depending on 
+ * which of their last names comes first, and then print their initials
+ */
 
 // Import scanner
 import java.util.Scanner;

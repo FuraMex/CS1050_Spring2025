@@ -1,19 +1,19 @@
 
+
+
+
+import java.util.Scanner;
+
 public class exampleCode 
 {
 
 	public static void main(String[] args) 
 	{
-		int caseVal = 1;
-		
-		switch (caseVal)
-		{
-			case 1: 
-				System.out.print("The number is 1");
-				break;
-			case 2:
-				System.out.print("The number is 2");
-				break;
-		}
+		Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+	    System.out.println("Enter username");
+
+
+	    int butd = myObj.nextInt();
+	    
 	}
 }
